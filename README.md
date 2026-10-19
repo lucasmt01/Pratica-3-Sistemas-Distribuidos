@@ -1,6 +1,6 @@
 # Sistemas Distribuídos: TCP e multithreading em Python
 
-Atividade prática de Ciência da Computação: cada processo cliente envia
+Atividade prática de Sistemas Distribuidos: cada processo cliente envia
 **1.000.000 de inteiros aleatórios entre 0 e 1000**, inclusive. Um processo
 servidor atende cada cliente em uma thread, soma os dados e devolve tanto a
 soma individual quanto a soma de toda a rodada.
