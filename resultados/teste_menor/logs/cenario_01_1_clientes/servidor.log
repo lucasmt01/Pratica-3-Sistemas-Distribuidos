@@ -1,0 +1,3 @@
+Servidor em 127.0.0.1:54284; aguardando 1 cliente(s).
+Cliente 01: 10,003 números; soma = 5008734
+Rodada concluída: clientes=1; números=10003; soma=5008734; tempo do servidor=0.003044 s

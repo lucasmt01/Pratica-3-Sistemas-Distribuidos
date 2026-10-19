@@ -1,0 +1,18 @@
+Servidor em 127.0.0.1:52720; aguardando 16 cliente(s).
+Cliente 12: 1,000,000 números; soma = 499752273
+Cliente 01: 1,000,000 números; soma = 500522782Cliente 09: 1,000,000 números; soma = 500339997Cliente 02: 1,000,000 números; soma = 500492412
+
+
+Cliente 04: 1,000,000 números; soma = 500297042Cliente 13: 1,000,000 números; soma = 500479577Cliente 15: 1,000,000 números; soma = 500026432
+Cliente 08: 1,000,000 números; soma = 499969148Cliente 16: 1,000,000 números; soma = 500005425Cliente 10: 1,000,000 números; soma = 499750725Cliente 05: 1,000,000 números; soma = 499585726
+
+
+
+Cliente 03: 1,000,000 números; soma = 500009950Cliente 11: 1,000,000 números; soma = 499789092
+Cliente 14: 1,000,000 números; soma = 500134493
+
+
+Cliente 06: 1,000,000 números; soma = 499840650Cliente 07: 1,000,000 números; soma = 499900427
+
+
+Rodada concluída: clientes=16; números=16000000; soma=8000896151; tempo do servidor=1.637667 s

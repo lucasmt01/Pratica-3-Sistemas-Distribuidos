@@ -1,0 +1,18 @@
+{
+  "cliente_id": 5,
+  "elementos": 10003,
+  "seed": 20269024,
+  "soma_esperada": 4947160,
+  "validado": true,
+  "tempo_geracao_s": 0.01584039999579545,
+  "resposta": {
+    "tipo": "resultado",
+    "cliente_id": 5,
+    "clientes": 8,
+    "elementos": 10003,
+    "soma_cliente": 4947160,
+    "soma_total": 39942251,
+    "total_numeros": 80024,
+    "tempo_servidor_s": 0.022111800004495308
+  }
+}

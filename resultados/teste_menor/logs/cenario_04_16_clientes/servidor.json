@@ -1,0 +1,89 @@
+{
+  "clientes": 16,
+  "numeros_por_cliente": 10003,
+  "total_numeros": 160048,
+  "soma_total": 80219432,
+  "tempo_servidor_s": 0.04922400000214111,
+  "clientes_resultados": [
+    {
+      "cliente_id": 1,
+      "elementos": 10003,
+      "soma": 5020910
+    },
+    {
+      "cliente_id": 2,
+      "elementos": 10003,
+      "soma": 5014232
+    },
+    {
+      "cliente_id": 3,
+      "elementos": 10003,
+      "soma": 5008010
+    },
+    {
+      "cliente_id": 4,
+      "elementos": 10003,
+      "soma": 5085883
+    },
+    {
+      "cliente_id": 5,
+      "elementos": 10003,
+      "soma": 5003238
+    },
+    {
+      "cliente_id": 6,
+      "elementos": 10003,
+      "soma": 4964701
+    },
+    {
+      "cliente_id": 7,
+      "elementos": 10003,
+      "soma": 4994469
+    },
+    {
+      "cliente_id": 8,
+      "elementos": 10003,
+      "soma": 4974124
+    },
+    {
+      "cliente_id": 9,
+      "elementos": 10003,
+      "soma": 4975357
+    },
+    {
+      "cliente_id": 10,
+      "elementos": 10003,
+      "soma": 5004306
+    },
+    {
+      "cliente_id": 11,
+      "elementos": 10003,
+      "soma": 4989139
+    },
+    {
+      "cliente_id": 12,
+      "elementos": 10003,
+      "soma": 5045353
+    },
+    {
+      "cliente_id": 13,
+      "elementos": 10003,
+      "soma": 5049186
+    },
+    {
+      "cliente_id": 14,
+      "elementos": 10003,
+      "soma": 5040785
+    },
+    {
+      "cliente_id": 15,
+      "elementos": 10003,
+      "soma": 5000476
+    },
+    {
+      "cliente_id": 16,
+      "elementos": 10003,
+      "soma": 5049263
+    }
+  ]
+}

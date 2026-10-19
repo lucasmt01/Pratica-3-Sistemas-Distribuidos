@@ -1,0 +1,89 @@
+{
+  "clientes": 16,
+  "numeros_por_cliente": 1000000,
+  "total_numeros": 16000000,
+  "soma_total": 8000896151,
+  "tempo_servidor_s": 1.637666700000409,
+  "clientes_resultados": [
+    {
+      "cliente_id": 1,
+      "elementos": 1000000,
+      "soma": 500522782
+    },
+    {
+      "cliente_id": 2,
+      "elementos": 1000000,
+      "soma": 500492412
+    },
+    {
+      "cliente_id": 3,
+      "elementos": 1000000,
+      "soma": 500009950
+    },
+    {
+      "cliente_id": 4,
+      "elementos": 1000000,
+      "soma": 500297042
+    },
+    {
+      "cliente_id": 5,
+      "elementos": 1000000,
+      "soma": 499585726
+    },
+    {
+      "cliente_id": 6,
+      "elementos": 1000000,
+      "soma": 499840650
+    },
+    {
+      "cliente_id": 7,
+      "elementos": 1000000,
+      "soma": 499900427
+    },
+    {
+      "cliente_id": 8,
+      "elementos": 1000000,
+      "soma": 499969148
+    },
+    {
+      "cliente_id": 9,
+      "elementos": 1000000,
+      "soma": 500339997
+    },
+    {
+      "cliente_id": 10,
+      "elementos": 1000000,
+      "soma": 499750725
+    },
+    {
+      "cliente_id": 11,
+      "elementos": 1000000,
+      "soma": 499789092
+    },
+    {
+      "cliente_id": 12,
+      "elementos": 1000000,
+      "soma": 499752273
+    },
+    {
+      "cliente_id": 13,
+      "elementos": 1000000,
+      "soma": 500479577
+    },
+    {
+      "cliente_id": 14,
+      "elementos": 1000000,
+      "soma": 500134493
+    },
+    {
+      "cliente_id": 15,
+      "elementos": 1000000,
+      "soma": 500026432
+    },
+    {
+      "cliente_id": 16,
+      "elementos": 1000000,
+      "soma": 500005425
+    }
+  ]
+}

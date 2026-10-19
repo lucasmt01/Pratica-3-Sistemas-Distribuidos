@@ -1,0 +1,6 @@
+Servidor em 127.0.0.1:54291; aguardando 4 cliente(s).
+Cliente 04: 10,003 números; soma = 4996707Cliente 03: 10,003 números; soma = 5021264
+
+Cliente 02: 10,003 números; soma = 5010802Cliente 01: 10,003 números; soma = 4992656
+
+Rodada concluída: clientes=4; números=40012; soma=20021429; tempo do servidor=0.012709 s

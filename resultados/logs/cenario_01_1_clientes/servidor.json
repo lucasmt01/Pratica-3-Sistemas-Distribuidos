@@ -1,0 +1,14 @@
+{
+  "clientes": 1,
+  "numeros_por_cliente": 1000000,
+  "total_numeros": 1000000,
+  "soma_total": 500155829,
+  "tempo_servidor_s": 0.10645449999719858,
+  "clientes_resultados": [
+    {
+      "cliente_id": 1,
+      "elementos": 1000000,
+      "soma": 500155829
+    }
+  ]
+}

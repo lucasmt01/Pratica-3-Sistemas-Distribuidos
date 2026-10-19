@@ -1,0 +1,20 @@
+{
+  "data_utc": "2026-10-19T19:20:42.325393+00:00",
+  "python": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+  "executavel": "C:\\Users\\lucas\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "sistema": "Windows-11-10.0.26200-SP0",
+  "processador": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+  "cpus_logicas": 16,
+  "clientes": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "elementos": 1000000,
+  "bloco": 32768,
+  "seed_base": 20261019,
+  "timeout_s": 180.0,
+  "host": "127.0.0.1",
+  "repeticoes_por_cenario": 1
+}

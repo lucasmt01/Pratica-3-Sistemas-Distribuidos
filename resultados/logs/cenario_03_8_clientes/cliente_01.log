@@ -1,0 +1,2 @@
+Cliente 01: 1,000,000 números gerados em 1.314478 s; soma esperada = 500287629. Aguardando liberação.
+Cliente 01: OK, soma recebida = 500287629; soma da rodada = 3999357662; tempo do servidor = 0.826133 s.

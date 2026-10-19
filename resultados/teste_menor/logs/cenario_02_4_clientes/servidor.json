@@ -1,0 +1,29 @@
+{
+  "clientes": 4,
+  "numeros_por_cliente": 10003,
+  "total_numeros": 40012,
+  "soma_total": 20021429,
+  "tempo_servidor_s": 0.012708900001598522,
+  "clientes_resultados": [
+    {
+      "cliente_id": 1,
+      "elementos": 10003,
+      "soma": 4992656
+    },
+    {
+      "cliente_id": 2,
+      "elementos": 10003,
+      "soma": 5010802
+    },
+    {
+      "cliente_id": 3,
+      "elementos": 10003,
+      "soma": 5021264
+    },
+    {
+      "cliente_id": 4,
+      "elementos": 10003,
+      "soma": 4996707
+    }
+  ]
+}

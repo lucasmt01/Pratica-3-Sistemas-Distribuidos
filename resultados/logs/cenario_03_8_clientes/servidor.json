@@ -1,0 +1,49 @@
+{
+  "clientes": 8,
+  "numeros_por_cliente": 1000000,
+  "total_numeros": 8000000,
+  "soma_total": 3999357662,
+  "tempo_servidor_s": 0.8261325000057695,
+  "clientes_resultados": [
+    {
+      "cliente_id": 1,
+      "elementos": 1000000,
+      "soma": 500287629
+    },
+    {
+      "cliente_id": 2,
+      "elementos": 1000000,
+      "soma": 499804336
+    },
+    {
+      "cliente_id": 3,
+      "elementos": 1000000,
+      "soma": 499897862
+    },
+    {
+      "cliente_id": 4,
+      "elementos": 1000000,
+      "soma": 499703501
+    },
+    {
+      "cliente_id": 5,
+      "elementos": 1000000,
+      "soma": 499916674
+    },
+    {
+      "cliente_id": 6,
+      "elementos": 1000000,
+      "soma": 499952760
+    },
+    {
+      "cliente_id": 7,
+      "elementos": 1000000,
+      "soma": 499963578
+    },
+    {
+      "cliente_id": 8,
+      "elementos": 1000000,
+      "soma": 499831322
+    }
+  ]
+}

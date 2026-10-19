@@ -1,0 +1,49 @@
+{
+  "clientes": 8,
+  "numeros_por_cliente": 10003,
+  "total_numeros": 80024,
+  "soma_total": 39942251,
+  "tempo_servidor_s": 0.022111800004495308,
+  "clientes_resultados": [
+    {
+      "cliente_id": 1,
+      "elementos": 10003,
+      "soma": 5034074
+    },
+    {
+      "cliente_id": 2,
+      "elementos": 10003,
+      "soma": 4981174
+    },
+    {
+      "cliente_id": 3,
+      "elementos": 10003,
+      "soma": 4993264
+    },
+    {
+      "cliente_id": 4,
+      "elementos": 10003,
+      "soma": 5024683
+    },
+    {
+      "cliente_id": 5,
+      "elementos": 10003,
+      "soma": 4947160
+    },
+    {
+      "cliente_id": 6,
+      "elementos": 10003,
+      "soma": 4996246
+    },
+    {
+      "cliente_id": 7,
+      "elementos": 10003,
+      "soma": 4982499
+    },
+    {
+      "cliente_id": 8,
+      "elementos": 10003,
+      "soma": 4983151
+    }
+  ]
+}
